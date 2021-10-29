@@ -1,4 +1,4 @@
-package org.prateekgupta.servlets;
+package org.rakshanayak.servlets;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
